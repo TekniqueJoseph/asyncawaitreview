@@ -36,4 +36,4 @@ const getData = async function() {
         console.log('Nahhh Sun', err)
     }
 }
-getData()
+// getData()
