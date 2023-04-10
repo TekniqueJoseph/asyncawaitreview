@@ -43,8 +43,8 @@ li:hover{
     text-align: center;
 }
 img{
-    width: 550px;
-    height: 550px;
+    width: 450px;
+    height: 450px;
     border-radius: 50%;
     transition: transform 1.2s ease-in-out;
 }
